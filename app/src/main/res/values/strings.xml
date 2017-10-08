@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Music Lyrics Search</string>
+    <string name="track_image">track image</string>
+    <string name="et_hint">ex: Taylor Swift</string>
+    <string name="et_filter">abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="tv_artist_name">Enter An Artist Name</string>
+    <string name="search">SEARCH</string>
+    <string name="connectivity_error">No Connection</string>
+    <string name="connectivity_msg">Network Capability Must Be Enabled To Continue</string>
+    <string name="music_results_activity">Track List</string>
+    <string name="artist_name">Artist Name :</string>
+    <string name="album_name">Album Name :</string>
+    <string name="track_name">Track Name :</string>
+    <string name="lyrics">Lyrics :</string>
+    <string name="artist_name_details">Artist Name Details</string>
+    <string name="album_name_details">Album Name Details</string>
+    <string name="track_name_details">Track Name Details</string>
+    <string name="lyrics_details">Lyrics Details</string>
+</resources>
